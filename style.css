@@ -96,3 +96,13 @@ h2 {
     font-size: 15px;
     border-color: #36A420;
 }
+
+.last {
+    font-family: SFProText-Regular, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    display: flex;
+    top: 475px;
+    position: absolute;
+    left: 780px;
+}
+
