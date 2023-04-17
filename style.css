@@ -82,3 +82,17 @@ hr {
     margin: 20px 2px;
     align-items: center;
 }
+
+h2 {
+    margin: auto;
+    width: 213px;
+    border: 2px solid black;
+    padding: 15px 8px;
+    border-radius: 8px;
+    color: white;
+    background-color: #36A420;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    border-color: #36A420;
+}
