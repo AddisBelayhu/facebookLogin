@@ -42,4 +42,18 @@ p {
 
 input[type='text'] {
     width: 306px;
+    padding: 14px 17px;
+    margin: 13px 6px;
+    border-radius: 5px;
+    font-size: 19px;
+    border: 1px solid grey;
+}
+
+input[type='password'] {
+    width: 306px;
+    padding: 14px 17px;
+    margin: -3px 6px;
+    border-radius: 5px;
+    font-size: 19px;
+    border: 1px solid grey;
 }
